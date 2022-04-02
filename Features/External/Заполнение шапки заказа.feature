@@ -1,6 +1,6 @@
 ﻿#language: ru
 @ExportScenarios
-@tree
+@IgnoreOnCIMainBuild
 
 Функционал: Заполнение шапки заказа
 
